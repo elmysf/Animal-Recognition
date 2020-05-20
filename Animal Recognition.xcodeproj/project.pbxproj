@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F062FF592475115B00ABFF93 /* CoreClassifier.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = F062FF582475115B00ABFF93 /* CoreClassifier.mlmodel */; };
 		F06D3C4424728AC500386569 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F06D3C4324728AC500386569 /* AppDelegate.swift */; };
 		F06D3C4624728AC500386569 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F06D3C4524728AC500386569 /* SceneDelegate.swift */; };
 		F06D3C4824728AC500386569 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F06D3C4724728AC500386569 /* ViewController.swift */; };
@@ -15,10 +16,10 @@
 		F06D3C5024728AC500386569 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F06D3C4F24728AC500386569 /* Assets.xcassets */; };
 		F06D3C5324728AC500386569 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F06D3C5124728AC500386569 /* LaunchScreen.storyboard */; };
 		F06D3C5D2473809700386569 /* UIImageExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = F06D3C5C2473809700386569 /* UIImageExtension.swift */; };
-		F0C94AA52473CCF800F9BD80 /* CoreClassifier.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = F0C94AA42473CCF800F9BD80 /* CoreClassifier.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F062FF582475115B00ABFF93 /* CoreClassifier.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = CoreClassifier.mlmodel; sourceTree = "<group>"; };
 		F06D3C4024728AC500386569 /* Animal Recognition.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Animal Recognition.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F06D3C4324728AC500386569 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F06D3C4524728AC500386569 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -29,7 +30,6 @@
 		F06D3C5224728AC500386569 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F06D3C5424728AC500386569 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F06D3C5C2473809700386569 /* UIImageExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIImageExtension.swift; sourceTree = "<group>"; };
-		F0C94AA42473CCF800F9BD80 /* CoreClassifier.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = CoreClassifier.mlmodel; path = ../../../../Desktop/CoreClassifier.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,8 +66,8 @@
 				F06D3C4524728AC500386569 /* SceneDelegate.swift */,
 				F06D3C5C2473809700386569 /* UIImageExtension.swift */,
 				F06D3C4724728AC500386569 /* ViewController.swift */,
+				F062FF582475115B00ABFF93 /* CoreClassifier.mlmodel */,
 				F06D3C4924728AC500386569 /* Main.storyboard */,
-				F0C94AA42473CCF800F9BD80 /* CoreClassifier.mlmodel */,
 				F06D3C4F24728AC500386569 /* Assets.xcassets */,
 				F06D3C5124728AC500386569 /* LaunchScreen.storyboard */,
 				F06D3C5424728AC500386569 /* Info.plist */,
@@ -149,10 +149,10 @@
 			files = (
 				F06D3C4824728AC500386569 /* ViewController.swift in Sources */,
 				F06D3C4E24728AC500386569 /* Animal_Recognition.xcdatamodeld in Sources */,
+				F062FF592475115B00ABFF93 /* CoreClassifier.mlmodel in Sources */,
 				F06D3C4424728AC500386569 /* AppDelegate.swift in Sources */,
 				F06D3C4624728AC500386569 /* SceneDelegate.swift in Sources */,
 				F06D3C5D2473809700386569 /* UIImageExtension.swift in Sources */,
-				F0C94AA52473CCF800F9BD80 /* CoreClassifier.mlmodel in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
