@@ -1,0 +1,57 @@
+
+App Thinning Size Report for All Variants of Animal Recognition
+
+Variant: Animal Recognition-19EEB3D3-B31C-4992-96DD-DFFA33C6AFE9.ipa
+Supported variant descriptors: [device: iPad8,8, os-version: 13.0], [device: iPad7,2, os-version: 13.0], [device: iPad11,1, os-version: 13.0], [device: iPad11,3, os-version: 13.0], [device: iPad8,4, os-version: 13.0], [device: iPad8,2, os-version: 13.0], [device: iPad8,7, os-version: 13.0], [device: iPad7,4, os-version: 13.0], [device: iPad8,3, os-version: 13.0], [device: iPad6,3, os-version: 13.0], [device: iPad8,5, os-version: 13.0], [device: iPad8,1, os-version: 13.0], [device: iPad8,6, os-version: 13.0], [device: iPad7,3, os-version: 13.0], [device: iPad7,1, os-version: 13.0], [device: iPad6,4, os-version: 13.0], [device: iPad11,4, os-version: 13.0], and [device: iPad11,2, os-version: 13.0]
+App + On Demand Resources size: 69 KB compressed, 199 KB uncompressed
+App size: 69 KB compressed, 199 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Animal Recognition-2AF6F5A8-F603-42F0-BFB2-012BC7C0B3E3.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 13.0]
+App + On Demand Resources size: 90 KB compressed, 221 KB uncompressed
+App size: 90 KB compressed, 221 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Animal Recognition-3A37506F-6794-4081-89DD-8202F8A01BC3.ipa
+Supported variant descriptors: [device: iPhone9,4, os-version: 13.0], [device: iPhone10,2, os-version: 13.0], [device: iPhone10,6, os-version: 13.0], [device: iPhone12,5, os-version: 13.0], [device: iPhone9,2, os-version: 13.0], [device: iPhone10,3, os-version: 13.0], [device: iPhone11,2, os-version: 13.0], [device: iPhone11,4, os-version: 13.0], [device: iPhone11,6, os-version: 13.0], [device: iPhone10,5, os-version: 13.0], and [device: iPhone12,3, os-version: 13.0]
+App + On Demand Resources size: 90 KB compressed, 221 KB uncompressed
+App size: 90 KB compressed, 221 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Animal Recognition-CDF2E6E5-980C-4DC6-AC51-888D6DB39B1C.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 13.0] and [device: iPhone12,1, os-version: 13.0]
+App + On Demand Resources size: 90 KB compressed, 222 KB uncompressed
+App size: 90 KB compressed, 222 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Animal Recognition-D9E6027D-41D8-417B-9093-5B411C2C828A.ipa
+Supported variant descriptors: [device: iPhone9,1, os-version: 13.0], [device: iPhone9,3, os-version: 13.0], [device: iPhone10,1, os-version: 13.0], and [device: iPhone10,4, os-version: 13.0]
+App + On Demand Resources size: 81 KB compressed, 212 KB uncompressed
+App size: 81 KB compressed, 212 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Animal Recognition-E67BE262-8EEB-4A73-916D-FE55137EE87A.ipa
+Supported variant descriptors: [device: iPad7,6, os-version: 13.0], [device: iPad6,7, os-version: 13.0], [device: iPad5,1, os-version: 13.0], [device: iPad7,12, os-version: 13.0], [device: iPad6,11, os-version: 13.0], [device: iPad5,4, os-version: 13.0], [device: iPad6,12, os-version: 13.0], [device: iPad7,5, os-version: 13.0], [device: iPad6,8, os-version: 13.0], [device: iPad5,2, os-version: 13.0], [device: iPad7,11, os-version: 13.0], and [device: iPad5,3, os-version: 13.0]
+App + On Demand Resources size: 69 KB compressed, 199 KB uncompressed
+App size: 69 KB compressed, 199 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Animal Recognition-F7AB5FD8-9345-462E-9350-334DA13634ED.ipa
+Supported variant descriptors: [device: iPod9,1, os-version: 13.0], [device: iPhone8,4, os-version: 13.0], and [device: iPhone8,1, os-version: 13.0]
+App + On Demand Resources size: 81 KB compressed, 212 KB uncompressed
+App size: 81 KB compressed, 212 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Animal Recognition.ipa
+Supported variant descriptors: Universal
+App + On Demand Resources size: 153 KB compressed, 289 KB uncompressed
+App size: 153 KB compressed, 289 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
