@@ -13,9 +13,11 @@
 		F06D3C4824728AC500386569 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F06D3C4724728AC500386569 /* ViewController.swift */; };
 		F06D3C4B24728AC500386569 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F06D3C4924728AC500386569 /* Main.storyboard */; };
 		F06D3C4E24728AC500386569 /* Animal_Recognition.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F06D3C4C24728AC500386569 /* Animal_Recognition.xcdatamodeld */; };
-		F06D3C5024728AC500386569 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F06D3C4F24728AC500386569 /* Assets.xcassets */; };
 		F06D3C5324728AC500386569 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F06D3C5124728AC500386569 /* LaunchScreen.storyboard */; };
 		F06D3C5D2473809700386569 /* UIImageExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = F06D3C5C2473809700386569 /* UIImageExtension.swift */; };
+		F0E69009247CE60B00D8832A /* Take.png in Resources */ = {isa = PBXBuildFile; fileRef = F0E69008247CE60B00D8832A /* Take.png */; };
+		F0E6900B247CE62600D8832A /* Camera.png in Resources */ = {isa = PBXBuildFile; fileRef = F0E6900A247CE62600D8832A /* Camera.png */; };
+		F0E6900D247CE62F00D8832A /* Waste.png in Resources */ = {isa = PBXBuildFile; fileRef = F0E6900C247CE62F00D8832A /* Waste.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,10 +28,12 @@
 		F06D3C4724728AC500386569 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		F06D3C4A24728AC500386569 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		F06D3C4D24728AC500386569 /* Animal_Recognition.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Animal_Recognition.xcdatamodel; sourceTree = "<group>"; };
-		F06D3C4F24728AC500386569 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F06D3C5224728AC500386569 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F06D3C5424728AC500386569 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F06D3C5C2473809700386569 /* UIImageExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIImageExtension.swift; sourceTree = "<group>"; };
+		F0E69008247CE60B00D8832A /* Take.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Take.png; sourceTree = "<group>"; };
+		F0E6900A247CE62600D8832A /* Camera.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Camera.png; sourceTree = "<group>"; };
+		F0E6900C247CE62F00D8832A /* Waste.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Waste.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,8 +72,10 @@
 				F06D3C4724728AC500386569 /* ViewController.swift */,
 				F062FF582475115B00ABFF93 /* CoreClassifier.mlmodel */,
 				F06D3C4924728AC500386569 /* Main.storyboard */,
-				F06D3C4F24728AC500386569 /* Assets.xcassets */,
 				F06D3C5124728AC500386569 /* LaunchScreen.storyboard */,
+				F0E69008247CE60B00D8832A /* Take.png */,
+				F0E6900C247CE62F00D8832A /* Waste.png */,
+				F0E6900A247CE62600D8832A /* Camera.png */,
 				F06D3C5424728AC500386569 /* Info.plist */,
 				F06D3C4C24728AC500386569 /* Animal_Recognition.xcdatamodeld */,
 			);
@@ -134,8 +140,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F0E6900D247CE62F00D8832A /* Waste.png in Resources */,
+				F0E69009247CE60B00D8832A /* Take.png in Resources */,
 				F06D3C5324728AC500386569 /* LaunchScreen.storyboard in Resources */,
-				F06D3C5024728AC500386569 /* Assets.xcassets in Resources */,
+				F0E6900B247CE62600D8832A /* Camera.png in Resources */,
 				F06D3C4B24728AC500386569 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

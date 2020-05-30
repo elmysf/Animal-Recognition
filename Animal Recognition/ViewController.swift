@@ -26,17 +26,21 @@ class ViewController: UIViewController {
     let actionSheet = UIAlertController(title: "Change Picture",
                                                 message: "Please select your picture source",
                                                 preferredStyle: .actionSheet)
-            actionSheet.addAction(UIAlertAction(title: "Photo Gallery", style: .default, handler: { [unowned self] (action) in
-               self.openPhotoGallery()
-            }))
             actionSheet.addAction(UIAlertAction(title: "Camera", style: .default, handler: { [unowned self] (action) in
-                self.openCamera()
+            self.openCamera()
             }))
+            actionSheet.addAction(UIAlertAction(title: "Photo Library", style: .default, handler: { [unowned self] (action) in
+               self.openPhotoLibrary()
+            }))
+           /*   actionSheet.addAction(UIAlertAction(title: "Save Dara", style: .default, handler: { [unowned
+                self](action) in
+                self.()
+            })) */
             actionSheet.addAction(UIAlertAction(title: "Cancel", style: .cancel, handler: nil))
             present(actionSheet, animated: true, completion: nil)
         }
         
-        fileprivate func openPhotoGallery() {
+        fileprivate func openPhotoLibrary() {
             if UIImagePickerController.isSourceTypeAvailable(.photoLibrary) {
                 let imagePicker = UIImagePickerController()
                 imagePicker.delegate = self
